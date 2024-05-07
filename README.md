@@ -1,2 +1,2 @@
 # testmap
-Podklady pro sorvnávací test map
+Podklady pro srovnávací test map
