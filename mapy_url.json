@@ -1,9 +1,27 @@
 {
+    "apple": [
+        "https://maps.apple.com/frame?center=46.84843155200233%2C14.711861465217908&span=29.546655072255472%2C76.91353711750673",
+        "https://maps.apple.com/frame?center=49.85627522350111%2C15.645036382148675&span=3.02451655723997%2C8.360297090633964",
+        "https://maps.apple.com/frame?center=50.07165599955895%2C14.439759735368483&span=0.21239840134608556%2C0.5897669655486197",
+        "https://maps.apple.com/frame?center=50.08744964292177%2C14.421218591000013&span=0.0017210418532798144%2C0.004780395288321415",
+        "https://maps.apple.com/frame?center=50.09046888515387%2C14.401125746261414&span=0.0033128865970724064%2C0.009202510203124348",
+        "https://maps.apple.com/frame?center=49.29498632836174%2C16.657087699015534&span=0.027451707580055995%2C0.07501717986539802",
+        "https://maps.apple.com/frame?center=50.73181179223994%2C15.730610320845926&span=0.02979688737149644%2C0.0838975751777582",
+        "https://maps.apple.com/frame?center=49.99485355251511%2C14.816075734691651&span=0.011588681320361616%2C0.024455889430697653",
+        "https://maps.apple.com/frame?center=43.2933064234229%2C17.01863974261809&span=0.007782020732832962%2C0.019054496154979006",
+        "https://maps.apple.com/frame?center=48.85888191791306%2C2.29174354338204&span=0.006107147827961512%2C0.01654309478450955",
+        "https://maps.apple.com/frame?center=37.78905869968337%2C-122.40323580106488&span=0.017116486558592214%2C0.03859994573888059",
+        "https://maps.apple.com/place?place-id=I8A24628DE9576A84&address=Yosemite+National+Park%2C+Yosemite+National+Park%2C+CA++95389%2C+United+States&coordinate=37.8488593%2C-119.5570877&name=Yosemitsk%C3%BD+n%C3%A1rodn%C3%AD+park&_provider=9902",
+        "https://maps.apple.com/frame?center=-19.456764945359602%2C169.40076049678902&span=0.5419620368142084%2C1.0243691888919102",
+        "https://maps.apple.com/frame?center=-19.530277300648493%2C169.26298715002258&span=0.008973441193653287%2C0.01696846255208584",
+        "https://maps.apple.com/directions?destination=Kaproun%2C+Kaproun+Kun%C5%BEak+Okres+Jind%C5%99ich%C5%AFv+Hradec+%C4%8Cesko&source=Kozojedy%2C+Kozojedy+Okres+Praha-v%C3%BDchod+%C4%8Cesko&mode=driving"
+    ]
     "googlemaps": [
         "https://www.google.cz/maps/@46.8308212,16.1649719,5z",
         "https://www.google.cz/maps/@49.8040239,15.5222626,8z",
         "https://www.google.cz/maps/@50.0654857,14.4438221,12z",
         "https://www.google.cz/maps/@50.0874895,14.4211804,19z",
+        "https://www.google.cz/maps/@50.09027,14.40088,18z",
         "https://www.google.cz/maps/@49.2964174,16.6604226,15z",
         "https://www.google.cz/maps/@50.7341048,15.7396238,15z",
         "https://www.google.cz/maps/@49.994821,14.8121003,16z",
@@ -20,6 +38,7 @@
         "https://mapy.cz/zakladni?x=15.5222626&y=49.8040239&z=8",
         "https://mapy.cz/zakladni?x=14.4438221&y=50.0654857&z=12",
         "https://mapy.cz/zakladni?x=14.4211804&y=50.0874895&z=19",
+        "https://mapy.cz/zakladni?x=14.40088&y=50.09027&z=18",
         "https://mapy.cz/zakladni?x=16.6604226&y=49.2964174&z=15",
         "https://mapy.cz/zakladni?x=15.7396238&y=50.7341048&z=15",
         "https://mapy.cz/zakladni?x=14.8121003&y=49.994821&z=16",
@@ -36,6 +55,7 @@
         "https://www.bing.com/maps?cp=49.8040239~15.5222626&lvl=8",
         "https://www.bing.com/maps?cp=50.0654857~14.4438221&lvl=12",
         "https://www.bing.com/maps?cp=50.0874895~14.4211804&lvl=19",
+        "https://www.bing.com/maps?cp=50.09027%7E14.40088&lvl=18",
         "https://www.bing.com/maps?cp=49.2964174~16.6604226&lvl=15",
         "https://www.bing.com/maps?cp=50.7341048~15.7396238&lvl=15",
         "https://www.bing.com/maps?cp=49.994821~14.8121003&lvl=16",
@@ -45,7 +65,7 @@
         "https://www.bing.com/maps?osid=7d5e5ca7-40ff-4dad-9f58-b7c4bcab7cda&cp=37.744889~-119.590326&lvl=15&pi=0&imgid=81664af8-7dc0-48cf-b9d5-cd32effe82df&v=2&sV=2&form=S00027",
         "https://www.bing.com/maps?cp=-19.4881912~169.3613849&lvl=11",
         "https://www.bing.com/maps?cp=-19.5319834~169.2673022&lvl=18",
-        "https://www.bing.com/maps?osid=807d22b9-5250-4661-9de7-4f8afd59a97e&cp=49.53569~14.452782&lvl=9.17&pi=0&v=2&sV=2&form=S00027"
+        "https://www.bing.com/maps?&ty=0&rtp=pos.49.99722_14.81611__Kozojedy%2C%20St%C5%99edo%C4%8Desk%C3%BD%20kraj__e_~pos.49.077492_15.18166_Kaproun%2C%20Jiho%C4%8Desk%C3%BD%20kraj_Kaproun%2C%20Jiho%C4%8Desk%C3%BD%20kraj__e_&mode=m&sri=0&u=1&tt=Kozojedy%2C%20St%C5%99edo%C4%8Desk%C3%BD%20kraj%20a%C5%BE%20Kaproun%2C%20Jiho%C4%8Desk%C3%BD%20kraj&tsts0=%2526ty%253D0%2526rtp%253Dpos.49.99722_14.81611__Kozojedy%25252C%252520St%2525C5%252599edo%2525C4%25258Desk%2525C3%2525BD%252520kraj__e_~pos.49.077492_15.18166_Kaproun%25252C%252520Jiho%2525C4%25258Desk%2525C3%2525BD%252520kraj_Kaproun%25252C%252520Jiho%2525C4%25258Desk%2525C3%2525BD%252520kraj__e_%2526mode%253Dm%2526sri%253D0%2526u%253D1&tstt0=Kozojedy%2C%20St%C5%99edo%C4%8Desk%C3%BD%20kraj%20a%C5%BE%20Kaproun%2C%20Jiho%C4%8Desk%C3%BD%20kraj&cp=49.539545~14.667238&lvl=9.73&pi=0&ftst=0&ftics=False&v=2&sV=2&form=S00027"
 
     ],
     "osm":[
@@ -53,6 +73,7 @@
         "https://www.openstreetmap.org/#map=8/49.8040239/15.5222626",
         "https://www.openstreetmap.org/#map=12/50.0654857/14.4438221",
         "https://www.openstreetmap.org/#map=19/50.0874895/14.4211804",
+        "https://www.openstreetmap.org/#map=18/50.09027/14.40088",
         "https://www.openstreetmap.org/#map=15/49.2964174/16.6604226",
         "https://www.openstreetmap.org/#map=15/50.7341048/15.7396238",
         "https://www.openstreetmap.org/#map=16/49.994821/14.8121003",
@@ -64,11 +85,29 @@
         "https://www.openstreetmap.org/#map=18/-19.5319834/169.2673022",
         "https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=49.997%2C14.814%3B49.077%2C15.182#map=9/49.5396/15.0302"
     ],
+    "locus": [
+        "https://web.locusmap.app/cs/?lat=46.8308212&lng=16.1649719&z=5",
+        "https://web.locusmap.app/cs/?lat=49.8040239&lng=15.5222626&z=8",
+        "https://web.locusmap.app/cs/?lat=50.0654857&lng=14.4438221&z=12",
+        "https://web.locusmap.app/cs/?lat=50.0874895&lng=14.4211804&z=19",
+        "https://web.locusmap.app/cs/?lat=50.09027&lng=14.40088&z=18",
+        "https://web.locusmap.app/cs/?lat=49.2964174&lng=16.6604226&z=15",
+        "https://web.locusmap.app/cs/?lat=50.7341048&lng=15.7396238&z=15",
+        "https://web.locusmap.app/cs/?lat=49.994821&lng=14.8121003&z=16",
+        "https://web.locusmap.app/cs/?lat=43.2936044&lng=17.0177203&z=17",
+        "https://web.locusmap.app/cs/?lat=48.8589845&lng=2.2932374&z=17",
+        "https://web.locusmap.app/cs/?lat=37.7888001&lng=-122.4027856&z=16",
+        "https://web.locusmap.app/cs/?lat=37.7467321&lng=-119.5888024&z=15",
+        "https://web.locusmap.app/cs/?lat=-19.4881912&lng=169.3613849&z=11",
+        "https://web.locusmap.app/cs/?lat=-19.5319834&lng=169.2673022&z=18",
+        "https://link.locusmap.app/r/zqwcrm"
+    ],
     "here": [
         "https://wego.here.com/?map=46.8308212,16.1649719,5,omv",
         "https://wego.here.com/?map=49.8040239,15.5222626,8,omv",
         "https://wego.here.com/?map=50.0654857,14.4438221,12,omv",
         "https://wego.here.com/?map=50.0874895,14.4211804,19,omv",
+        "https://wego.here.com/?map=50.09027,14.40088,18",
         "https://wego.here.com/?map=49.2964174,16.6604226,15,omv",
         "https://wego.here.com/?map=50.7341048,15.7396238,15,omv",
         "https://wego.here.com/?map=49.994821,14.8121003,16,omv",
